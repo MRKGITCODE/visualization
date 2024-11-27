@@ -98,7 +98,23 @@ Equity
 
     Ensure that the visualization does not imply causation or specific reasons for the deaths without proper evidence. If the data is primarily associated with a specific event or industry, clarify this, and consider including notes on broader conditions or systemic issues that may also contribute to the situation.
 
+To ensure a responsible and ethical approach to data visualization, especially when dealing with sensitive topics like deaths or other serious consequences, consider the following guidelines:
 
+Avoid Implied Causation: Ensure the visualization does not suggest that the data directly causes the deaths or any other outcomes without clear, empirical evidence. For example, if a graph or map shows a correlation between deaths and a specific event or industry, include a disclaimer that highlights that correlation does not equal causation. Use phrases like “associated with” or “correlated with” rather than "causes."
+
+Clarify the Context: If the data is associated with a specific event (e.g., a natural disaster, an outbreak, or an industrial accident), make sure to clearly state this in the visualization’s title or description. It’s important to avoid misleading conclusions by clearly distinguishing between events that are directly related and broader, more systemic issues.
+
+Include Broader Factors: If the data set pertains to a complex issue (e.g., industrial deaths, health-related deaths, or accidents), provide context about broader conditions that may also contribute to the situation. This could include economic, political, environmental, or social factors that could influence the data. Include a note or supplementary text explaining that multiple factors may contribute to the outcomes, even if the visualization focuses on one aspect.
+
+Data Source Transparency: Include information about where the data comes from, its limitations, and how it was collected. This will help viewers understand the reliability and scope of the information, avoiding any overinterpretation of the results.
+
+Sensitivity in Presentation: Ensure that the visualization is presented in a way that respects the gravity of the issue. Avoid sensationalism or overstating conclusions, especially if the data involves human life or serious consequences. The tone should be neutral and factual, and the visuals should aim to inform rather than provoke strong emotional reactions.
+
+Provide Citations and References: If applicable, include references to the studies, reports, or sources that support the data. This helps viewers verify the information and ensures that the conclusions drawn from the visualization are grounded in evidence.
+
+Example of a Clarification in a Data Visualization:
+Title: "Workplace Fatalities in the Construction Industry (2010-2020)"
+Description: “This visualization shows the number of workplace fatalities in the construction sector over the past decade. The data is correlated with factors such as industry safety regulations, accident rates, and workforce size. Note that while these fatalities are associated with the construction industry, broader systemic issues, such as regulatory enforcement, worker training, and socio-economic conditions, may also contribute to these trends. Further research is needed to establish specific causal relationships.”
 
 - Word count should not exceed (as a maximum) 300 words for each visualization. 
 
