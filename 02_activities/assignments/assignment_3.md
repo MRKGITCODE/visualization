@@ -8,6 +8,7 @@
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) whether or not you think this data visualization is accessible, reproducible, and equitable. 
     A "Good" Example of Visualization
 Link: https://www.behance.net/gallery/17868143/Power-grid
+
 Name: Power grid in Hong Kong
 The "Power Grid in Hong Kong" project on Behance is an excellent example of data visualization because of its clear, engaging design and effective communication of complex information. Here are some elements that make it a good example:
 
